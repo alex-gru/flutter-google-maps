@@ -1,4 +1,4 @@
-# google_maps_experiments
+# Google Maps in Flutter: Experiments
 
 A Flutter application which experiments with features from the Google Maps SDK, including location tracking, drawing markers, circles and polygons.
 
